@@ -13,3 +13,4 @@ Previews of app below ↓
 <img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/94b394a1-be4c-4428-a0dd-35078ab88bb8" />
 
 
+WARNING! LACKCHAT DOES NOT WORK YET
