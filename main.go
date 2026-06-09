@@ -1,5 +1,3 @@
-go
-
 package main
 
 import (
